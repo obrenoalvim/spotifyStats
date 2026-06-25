@@ -1,5 +1,7 @@
 # SpotifyStats
 
+[![CI](https://github.com/obrenoalvim/spotifyStats/actions/workflows/ci.yml/badge.svg)](https://github.com/obrenoalvim/spotifyStats/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Dashboard para explorar e visualizar suas estatísticas do Spotify. Conecte sua conta e veja músicas e artistas mais ouvidos em diferentes períodos, insights sobre seus hábitos musicais e gere papéis de parede a partir das capas dos seus álbuns favoritos.
 
 ## Stack
